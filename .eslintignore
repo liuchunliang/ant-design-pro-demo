@@ -1,6 +1,6 @@
 /lambda/
 /scripts
-/config
+/config --no-ignore
 .history
 public
 dist
